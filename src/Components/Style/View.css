@@ -1,0 +1,60 @@
+.view.card {
+    width: 50%;
+    position: absolute;
+    left: 298px;
+    top: 127px;
+    background: black;
+}
+
+img.card-img-top.viewimage {
+    width: 300px;
+    height: 300px;
+    margin-left: 188px;
+    margin-top: 42px;
+}
+
+.viewcoin h3 {
+    font-size: 49px;
+    text-align: center;
+    padding-top: 32px;
+    font-family: system-ui;
+    color: blueviolet;
+}
+
+.viewcoin {
+    height: 880px;
+}
+
+button.ctabuy {
+    width: 19%;
+    height: 53px;
+    border-radius: 26px;
+    border: 1px solid white;
+    background: gold;
+    font-size: 18px;
+    font-family: cursive;
+    margin-bottom: 20px;
+    margin-left: 362px;
+}
+
+button.ctabuyy{
+
+    width: 19%;
+    height: 53px;
+    border-radius: 26px;
+    border: 1px solid white;
+    background: gold;
+    font-size: 18px;
+    font-family: cursive;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.instruu h4 {
+    color: aqua;
+    font-size: 29px;
+    font-family: cursive;
+    padding-top: 30px;
+    padding-left: 62px;
+    font-weight: 800;
+}
